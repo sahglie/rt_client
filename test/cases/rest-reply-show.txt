@@ -1,0 +1,27 @@
+RT/4.0.2 200 Ok
+
+id: ticket/7822
+Queue: Ball
+Owner: Nobody
+Creator: jsmith
+Subject: Death by 1k cuts
+Status: resolved
+Priority: 0
+InitialPriority: 0
+FinalPriority: 0
+Requestors:
+Cc:
+AdminCc:
+Created: Tue Nov 07 15:25:37 2006
+Starts: Not set
+Started: Thu Nov 09 16:41:38 2006
+Due: Not set
+Resolved: Thu Nov 09 16:41:38 2006
+Told: Not set
+LastUpdated: Thu Nov 09 16:41:38 2006
+TimeEstimated: 0
+TimeWorked: 0
+TimeLeft: 0
+CF.{My Field}: Just 4 me
+CF.{Location}: Funky Town
+

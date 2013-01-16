@@ -1,0 +1,19 @@
+RT/4.0.2 200 Ok
+
+id: ticket/7822/attachments
+
+Attachments: 24617: (Unnamed) (multipart/signed / 0b),
+             24618: (Unnamed) (text/plain / 4k),
+             24619: smime.p7s (application/x-pkcs7-signature / 3.2k),
+             24620: (Unnamed) (multipart/signed / 0b),
+             24621: (Unnamed) (text/plain / 955b),
+             24622: smime.p7s (application/x-pkcs7-signature / 3.2k),
+             24710: (Unnamed) (multipart/signed / 0b),
+             24711: (Unnamed) (multipart/mixed / 0b),
+             24712: (Unnamed) (text/plain / 4.5k),
+             24713: Cool file.doc (application/msword / 164.5k),
+             24714: smime.p7s (application/x-pkcs7-signature / 3.2k),
+             24715: (Unnamed) (text/plain / 0b),
+             24716: (Unnamed) (text/plain / 12b)
+
+
