@@ -9,7 +9,7 @@ require "rest_client"
 require 'rt_client/util'
 require 'rt_client/version'
 
-module RT; 
+module RTClient; 
 
 	##A ruby library API to Request Tracker's REST interface. Requires the
 	##rubygems rest-client, mail and mime-types to be installed.  You can
