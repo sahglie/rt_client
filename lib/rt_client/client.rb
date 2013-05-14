@@ -112,7 +112,7 @@ module RTClient;
 			if @cookie.length == 0 or data =~ /401/ # we're not logged in
 				data = site.post @login, :headers => headers
 				#      puts data
-				@cookie = data.headers[:set_cookie].to_s.split('; ')[0]
+				@cookie = data.headers[:set_cookie].first.split("; ")[0]
 				# write the new cookie
 				if @cookie !~ /nil/
 					f = File.new(cookiejar,"w")
