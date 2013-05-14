@@ -1,12 +1,12 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "rt_client/version"
+require "rt/version"
 
 Gem::Specification.new do |s|
-  s.name        = "rt_client"
+  s.name        = "rt"
   s.version     = RTClient::VERSION
-  s.authors     = ["Rob Vinson", "Tom Lahti"]
-  s.homepage    = "https://github.com/robvinson/rt_client"
+  s.authors     = ["Jason Muffett", "Rob Vinson", "Tom Lahti"]
+  s.homepage    = "https://github.com/jerius/rt_client"
   s.summary     = %q{For accessing the REST interface of a Request Tracker instance.}
   s.description     = %q{RT_Client is a ruby object that accesses the REST interface version 1.0 of a Request Tracker instance.  See http://www.bestpractical.com/ for Request Tracker.  This is a fork of Tom Lahti's rt-client gem.}
 

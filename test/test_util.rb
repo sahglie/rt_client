@@ -1,5 +1,5 @@
 require 'test/unit'
-require 'rt_client/util'
+require 'rt/util'
 
 class UtilTest < Test::Unit::TestCase
 	def test_response_to_h
